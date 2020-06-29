@@ -1,1 +1,1 @@
-# Slides for Rstudio::conf 2020 talk: Becoming an R blogger
+# Blogdown Tutorial for R Ladies Bucharest
